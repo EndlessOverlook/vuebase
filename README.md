@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vuebase
-=======
 # vuebase
 
 ## Project setup
